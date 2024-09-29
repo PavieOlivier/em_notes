@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="98px" height="29px" viewBox="0 0 98 29" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" font-weight="normal">
+        <g id="Group">
+            <text id="EmNotes" font-family="FugazOne-Regular, Fugaz One" font-size="17">
+                <tspan x="22" y="22" fill="#F75D5B">E</tspan>
+                <tspan x="32.489" y="22" fill="#D3C9BD">m</tspan>
+                <tspan x="48.265" y="22" fill="#F75D5B">N</tspan>
+                <tspan x="60.114" y="22" fill="#D3C9BD">otes</tspan>
+            </text>
+            <text id="🔖" font-family="AppleColorEmoji, Apple Color Emoji" font-size="18" fill="#D3C9BD">
+                <tspan x="0" y="21">🔖</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
